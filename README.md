@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LsDevLab
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently studying Computer Engineering at UniSa
+- 🌱 I’m currently FrontEnd Developer @ South Engineering S.R.L
 - 📫 How to reach me: `luigisc24` on Instagram, `luigisc98@gmail.com` on gmail
 
 <!---
