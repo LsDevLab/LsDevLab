@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LsDevLab
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently FrontEnd Developer @ South Engineering S.R.L
-- 📫 How to reach me: `luigisc24` on Instagram, `luigisc98@gmail.com` on gmail
+- 📫 How to reach me: `luigisch98` on Instagram, `luigisc98@gmail.com` on gmail
 
 <!---
 LsDevLab/LsDevLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
